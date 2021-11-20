@@ -116,9 +116,9 @@
       11) Type yarn start if you are using yarn package manager. Or npm start if you are using npm
 
 ### Common Pitfalls:
-  1) Createing a constructor BUT forgetting to pass the props
-  2) Createing a constructor BUT forgetting call the super function
-  3) Createing a constructor BUT forgetting call the super function with props
+  1) Creating a constructor BUT forgetting to pass the props
+  2) Creating a constructor BUT forgetting call the super function
+  3) Creating a constructor BUT forgetting call the super function with props
   4) When using State Hooks, forgetting to change from React.Component to function Component
   5) Function components DO NOT use constructor() nor render(), but still require a return()
   6) Mixing up css style sheets and bootstrap className properties
