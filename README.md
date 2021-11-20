@@ -1,10 +1,10 @@
 # Repo Notes
 
 ## Slide Notes:
-  1)Slide   1:      Intro
-  2)Slides  2-7:    Analogies of State
-  3)Slides  8-13:   Bounderies of States & Violations
-  4)Slides  14-18:  React UI Examples
+  1)Slide   1:      Intro  
+  2)Slides  2-7:    Analogies of State  
+  3)Slides  8-13:   Bounderies of States & Violations  
+  4)Slides  14-18:  React UI Examples  
   
 ## Demo #1
   Steps:
