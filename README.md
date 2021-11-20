@@ -1,17 +1,17 @@
 # Repo Notes
 
 ## Slide Notes:
-  1)    Intro
-  2-7)  Analogies of State
-  8-13) Bounderies of States & Violations
-  14-18)React UI Examples
+  1)Slide   1:      Intro
+  2)Slides  2-7:    Analogies of State
+  3)Slides  8-13:   Bounderies of States & Violations
+  4)Slides  14-18:  React UI Examples
   
 ## Demo #1
   Steps:
     
     1) Using npm or yarn, Create a new React App
     2) Download the following packages:
-        ```
+        
         "@fortawesome/fontawesome-svg-core": "^1.2.36"
         "@fortawesome/free-solid-svg-icons": "^5.15.4"
         "@fortawesome/react-fontawesome": "^0.1.16"
@@ -25,7 +25,7 @@
         "react-icons": "^4.3.1"
         "react-scripts": "4.0.3"
         "web-vitals": "^1.0.1"
-        ```
+        
     3) Open App Directory
     4) Open Src/App.js
     5) Import the following libraries:
