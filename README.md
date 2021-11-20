@@ -1,7 +1,7 @@
 # Repo Notes
 
 ## Slide Notes:
-  Slide&nbsp;&nbsp;&nbsp;&nbsp;1:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intro  
+  Slide&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intro  
   Slides&nbsp;&nbsp;&nbsp;&nbsp;2-7:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Analogies of State  
   Slides&nbsp;&nbsp;&nbsp;&nbsp;8-13:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bounderies of States & Violations  
   Slides&nbsp;&nbsp;&nbsp;&nbsp;14-18:&nbsp;&nbsp;&nbsp;&nbsp;React UI Examples  
